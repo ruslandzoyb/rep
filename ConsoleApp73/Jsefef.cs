@@ -8,7 +8,7 @@ namespace ConsoleApp73
     {
         public Jsefef()
         {
-
+            Console.WriteLine("");
         }
     }
 }
