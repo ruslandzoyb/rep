@@ -9,6 +9,7 @@ namespace ConsoleApp73
             Console.WriteLine("Hello World!");
             Console.WriteLine();
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
