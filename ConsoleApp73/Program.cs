@@ -10,6 +10,7 @@ namespace ConsoleApp73
             Console.WriteLine();
             Console.ReadLine();
             Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
